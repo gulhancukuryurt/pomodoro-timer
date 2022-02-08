@@ -1,0 +1,45 @@
+body {
+    background-color: lightblue;
+    font-family: 'Architects Daughter', cursive;
+}
+
+.timer{
+    text-align: center;
+    width: 18rem;
+    height: 18rem;
+    border: 5px solid white;
+    border-radius: 15rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.fa-play-circle, .fa-redo, .fa-coffee {
+    border: 2px solid white;
+    border-radius: 10em;
+    padding: 15px;
+
+}
+
+.fa-play-circle:hover, .fa-redo:hover, .fa-coffee:hover{
+     color: thistle;
+     border: 2px solid red;
+     transition: 0.3s ease;
+
+
+}
+
+.message {
+    display: block;
+    padding: 1rem 0;
+    color: red;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+h6{
+    text-align: center;
+    color:tomato
+}
