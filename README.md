@@ -1,3 +1,3 @@
 # pomodoro-timer
 
-Demo: pomodorotimerproject.netlify.app 
+Demo: https://pomodorotimerproject.netlify.app/
